@@ -1,0 +1,335 @@
+{
+ "slug": "pikiran-keempat",
+ "title": "BAYANGKAN JIKA KAMU BISA MENDENGAR PIKIRAN?",
+ "fps": 30,
+ "total": 904,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 82,
+   "t0": 0,
+   "t1": 82,
+   "line": "Bayangkan jika kamu bisa mendengar pikiran orang."
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 128,
+   "t0": 0,
+   "t1": 46,
+   "line": "Ibu menyembunyikan kue."
+  },
+  {
+   "shot": "S3",
+   "a": 128,
+   "b": 157,
+   "t0": 0,
+   "t1": 29,
+   "line": "Kamu dengar.",
+   "look": "dengar"
+  },
+  {
+   "shot": "S4",
+   "a": 157,
+   "b": 182,
+   "t0": 0,
+   "t1": 25,
+   "line": "Ketemu."
+  },
+  {
+   "shot": "S5",
+   "a": 182,
+   "b": 228,
+   "t0": 0,
+   "t1": 46,
+   "line": "Temanmu tahu jawabannya."
+  },
+  {
+   "shot": "S6",
+   "a": 228,
+   "b": 257,
+   "t0": 0,
+   "t1": 29,
+   "line": "Kamu dengar.",
+   "look": "dengar"
+  },
+  {
+   "shot": "S7",
+   "a": 257,
+   "b": 295,
+   "t0": 0,
+   "t1": 38,
+   "line": "Nilai seratus."
+  },
+  {
+   "shot": "S8",
+   "a": 295,
+   "b": 354,
+   "t0": 0,
+   "t1": 59,
+   "line": "Kucingmu memikirkan sesuatu."
+  },
+  {
+   "shot": "S9",
+   "a": 354,
+   "b": 389,
+   "t0": 0,
+   "t1": 35,
+   "line": "Di belakangmu."
+  },
+  {
+   "shot": "S10",
+   "a": 389,
+   "b": 479,
+   "t0": 0,
+   "t1": 90,
+   "line": "Manusia punya lebih dari enam ribu pikiran sehari."
+  },
+  {
+   "shot": "S11",
+   "a": 479,
+   "b": 509,
+   "t0": 0,
+   "t1": 30,
+   "line": "Itu nyata."
+  },
+  {
+   "shot": "S12",
+   "a": 509,
+   "b": 571,
+   "t0": 0,
+   "t1": 62,
+   "line": "Jadi kamu belajar menghitung pikiran."
+  },
+  {
+   "shot": "S13",
+   "a": 571,
+   "b": 673,
+   "t0": 0,
+   "t1": 102,
+   "line": "Malam ini: Ibu. Adik. Kamu.",
+   "look": "dengar"
+  },
+  {
+   "shot": "S14",
+   "a": 673,
+   "b": 704,
+   "t0": 0,
+   "t1": 31,
+   "line": "Empat."
+  },
+  {
+   "shot": "S15",
+   "a": 704,
+   "b": 775,
+   "t0": 0,
+   "t1": 71,
+   "line": "Padahal di rumah cuma kalian bertiga."
+  },
+  {
+   "shot": "S16",
+   "a": 775,
+   "b": 822,
+   "t0": 0,
+   "t1": 47,
+   "line": "Dan pikiran keempat itu..."
+  },
+  {
+   "shot": "S17",
+   "a": 822,
+   "b": 904,
+   "t0": 0,
+   "t1": 82,
+   "line": "baru sadar kamu mendengarnya."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "title, wide",
+   "key": 60,
+   "len": 82,
+   "first": 0,
+   "line": "Bayangkan jika kamu bisa mendengar pikiran orang.",
+   "note": "dusk over the city; tiny cyan thought bubbles rise from the lit windows; Pip on the roof; the title"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 24,
+   "len": 46,
+   "first": 82,
+   "line": "Ibu menyembunyikan kue.",
+   "note": "Mum behind the island slides the cookie plate behind her back; a cyan thought bubble with a cookie pops over her head"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 14,
+   "len": 29,
+   "first": 128,
+   "line": "Kamu dengar.",
+   "note": "Pip's eyes glint cyan, sound rings round his head; he smirks"
+  },
+  {
+   "id": "S4",
+   "size": "top-down insert",
+   "key": 14,
+   "len": 25,
+   "first": 157,
+   "line": "Ketemu.",
+   "note": "Pip's mitten lands on the hidden cookie plate"
+  },
+  {
+   "id": "S5",
+   "size": "over the shoulder",
+   "key": 22,
+   "len": 46,
+   "first": 182,
+   "line": "Temanmu tahu jawabannya.",
+   "note": "blurred kid in the foreground; Mo at his desk, a thought bubble with 56 over his head; the board reads 7 x 8 = ?"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 14,
+   "len": 29,
+   "first": 228,
+   "line": "Kamu dengar.",
+   "note": "Pip at his desk, eyes glint, he scribbles"
+  },
+  {
+   "id": "S7",
+   "size": "top-down insert",
+   "key": 20,
+   "len": 38,
+   "first": 257,
+   "line": "Nilai seratus.",
+   "note": "the test paper, a red 100 stamps on"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 59,
+   "first": 295,
+   "line": "Kucingmu memikirkan sesuatu.",
+   "note": "Pip at the desk under the lamp; the cat on the desk stares past him, its bubble shows two eyes in the dark"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 20,
+   "len": 35,
+   "first": 354,
+   "line": "Di belakangmu.",
+   "note": "Pip turns his head, worried; the dark doorway soft behind him"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "key": 50,
+   "len": 90,
+   "first": 389,
+   "line": "Manusia punya lebih dari enam ribu pikiran sehari.",
+   "note": "a head outline; tiny bubbles stream out; the count runs up to 6,200 thoughts a day"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 16,
+   "len": 30,
+   "first": 479,
+   "line": "Itu nyata.",
+   "note": "the number holds, the source label pops on: TSENG & POPPENK, 2020"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 30,
+   "len": 62,
+   "first": 509,
+   "line": "Jadi kamu belajar menghitung pikiran.",
+   "note": "night; Pip sits up in bed, lamp on, the door ajar with the hall light; his eyes glint"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 50,
+   "len": 102,
+   "first": 571,
+   "line": "Malam ini: Ibu. Adik. Kamu.",
+   "note": "Pip in bed; three cyan bubbles pop round the wall one by one (mum, sister, him) and a counter ticks 1, 2, 3"
+  },
+  {
+   "id": "S14",
+   "size": "extreme close-up",
+   "key": 6,
+   "len": 31,
+   "first": 673,
+   "line": "Empat.",
+   "note": "Pip's face; the counter flips to 4 in red; red rim"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 71,
+   "first": 704,
+   "line": "Padahal di rumah cuma kalian bertiga.",
+   "note": "the lamp flickers; Pip stares at the door crack; the hall light dims"
+  },
+  {
+   "id": "S16",
+   "size": "over the shoulder",
+   "key": 30,
+   "len": 47,
+   "first": 775,
+   "line": "Dan pikiran keempat itu...",
+   "note": "Pip's dark head foreground; in the door crack a red thought bubble rises from the dark hall"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 82,
+   "first": 822,
+   "line": "baru sadar kamu mendengarnya.",
+   "note": "in the dark crack an eye opens toward camera; the lamp dies; blackout"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5,
+   "f": 0
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "f": 673
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 12,
+   "f": 673
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.35,
+   "f": 842
+  }
+ ],
+ "audio": {
+  "voice": "pikiran-keempat/voice.mp3",
+  "sfx": "pikiran-keempat/sfx.mp3",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4447,
+  "music": "pikiran-keempat/music.mp3",
+  "musicVol": 0.065
+ }
+}

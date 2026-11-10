@@ -87,3 +87,11 @@ shot or a character.
   can lag. Re-read it before reporting.
 - **Remotion Studio can't drag these shots around:** they're computed from the timeline, so retime in
   `episode.json` and re-run `plan.py`.
+
+## Sandboxed machines
+
+- **No access to Remotion's browser download** (a cloud sandbox): link a local Chrome Headless Shell into
+  `node_modules/.remotion/chrome-headless-shell/linux64/chrome-headless-shell-linux64` and write Remotion's tested
+  version into `node_modules/.remotion/chrome-headless-shell/VERSION`.
+- **The render browser can't load Google Fonts** (a proxy it doesn't trust): set `localFonts: true` in
+  `src/studio.config.ts`; the three faces ship in `public/fonts/`. Never turn certificate checks off instead.

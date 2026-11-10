@@ -1,0 +1,602 @@
+{
+ "id": "PikiranKeempat",
+ "slug": "pikiran-keempat",
+ "topic": "Bayangkan jika kamu bisa mendengar pikiran orang (thriller, Bahasa Indonesia)",
+ "title": [
+  "BAYANGKAN JIKA KAMU",
+  "BISA MENDENGAR PIKIRAN?"
+ ],
+ "accent": "PIKIRAN?",
+ "power": {
+  "word": "Kamu dengar.",
+  "rule": "you hear the thoughts of every mind near you, and you can count them",
+  "look": "a cyan thought bubble over the thinker with a picture inside, sound rings, cyan glint in Pip's eyes, a DENGAR chip"
+ },
+ "script": [
+  {
+   "beat": "2 the premise first (the person asked to open on it), title card",
+   "text": "Bayangkan jika kamu bisa mendengar pikiran orang."
+  },
+  {
+   "beat": "1 demo 1 (small and selfish)",
+   "text": "Ibu menyembunyikan kue. Kamu dengar. Ketemu."
+  },
+  {
+   "beat": "1 demo 2 (useful)",
+   "text": "Temanmu tahu jawabannya. Kamu dengar. Nilai seratus."
+  },
+  {
+   "beat": "1 demo 3 (uneasy)",
+   "text": "Kucingmu memikirkan sesuatu. Di belakangmu."
+  },
+  {
+   "beat": "4 the turn: one real fact",
+   "text": "Manusia punya lebih dari enam ribu pikiran sehari. Itu nyata."
+  },
+  {
+   "beat": "4 the rule that sets up the twist",
+   "text": "Jadi kamu belajar menghitung pikiran."
+  },
+  {
+   "beat": "5 the count",
+   "text": "Malam ini: Ibu. Adik. Kamu."
+  },
+  {
+   "beat": "6 the twist",
+   "text": "Empat."
+  },
+  {
+   "beat": "6 why it's wrong",
+   "text": "Padahal di rumah cuma kalian bertiga."
+  },
+  {
+   "beat": "7 cliffhanger",
+   "text": "Dan pikiran keempat itu... baru sadar kamu mendengarnya."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A person has more than six thousand thoughts a day.",
+   "working": "Tseng and Poppenk tracked transitions between brain-activity 'meta-states' (thought worms) in fMRI of 184 people; Queen's University reported the average at about 6,200 new thoughts a day. 6,200 > 6,000, so 'lebih dari enam ribu' holds. It is an estimate from one lab study; the schematic credits it.",
+   "source": "Tseng & Poppenk, Nature Communications 11, 3480 (2020), doi:10.1038/s41467-020-17255-9; Queen's University Gazette, 'Discovery of thought worms opens window to the mind', July 2020"
+  }
+ ],
+ "voice": {
+  "settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.8,
+   "style": 0.3,
+   "use_speaker_boost": true
+  }
+ },
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.22,
+  "sentence": 0.32,
+  "question": 0.45,
+  "pairs": {
+   "Kamu|Empat": 0.7,
+   "Empat|Padahal": 0.6,
+   "bertiga|Dan": 0.5
+  }
+ },
+ "cast": [
+  "pipHood",
+  "mom",
+  "mo",
+  "sis"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "title, wide",
+   "set": "rooftop",
+   "key": 60,
+   "note": "dusk over the city; tiny cyan thought bubbles rise from the lit windows; Pip on the roof; the title"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 24,
+   "note": "Mum behind the island slides the cookie plate behind her back; a cyan thought bubble with a cookie pops over her head"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip's eyes glint cyan, sound rings round his head; he smirks"
+  },
+  {
+   "id": "S4",
+   "size": "top-down insert",
+   "set": "kitchen (worktop)",
+   "key": 14,
+   "note": "Pip's mitten lands on the hidden cookie plate"
+  },
+  {
+   "id": "S5",
+   "size": "over the shoulder",
+   "set": "classroom",
+   "key": 22,
+   "note": "blurred kid in the foreground; Mo at his desk, a thought bubble with 56 over his head; the board reads 7 x 8 = ?"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "classroom",
+   "key": 14,
+   "note": "Pip at his desk, eyes glint, he scribbles"
+  },
+  {
+   "id": "S7",
+   "size": "top-down insert",
+   "set": "classroom (desk)",
+   "key": 20,
+   "note": "the test paper, a red 100 stamps on"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "study at night",
+   "key": 30,
+   "note": "Pip at the desk under the lamp; the cat on the desk stares past him, its bubble shows two eyes in the dark"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "study at night",
+   "key": 20,
+   "note": "Pip turns his head, worried; the dark doorway soft behind him"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "a head outline; tiny bubbles stream out; the count runs up to 6,200 thoughts a day"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 16,
+   "note": "the number holds, the source label pops on: TSENG & POPPENK, 2020"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "night; Pip sits up in bed, lamp on, the door ajar with the hall light; his eyes glint"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 50,
+   "note": "Pip in bed; three cyan bubbles pop round the wall one by one (mum, sister, him) and a counter ticks 1, 2, 3"
+  },
+  {
+   "id": "S14",
+   "size": "extreme close-up",
+   "set": "bedroom",
+   "key": 6,
+   "note": "Pip's face; the counter flips to 4 in red; red rim"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the lamp flickers; Pip stares at the door crack; the hall light dims"
+  },
+  {
+   "id": "S16",
+   "size": "over the shoulder",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip's dark head foreground; in the door crack a red thought bubble rises from the dark hall"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "bedroom (door crack)",
+   "key": 30,
+   "note": "in the dark crack an eye opens toward camera; the lamp dies; blackout"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "Bayangkan"
+  },
+  {
+   "shot": "S2",
+   "at": "Ibu"
+  },
+  {
+   "shot": "S3",
+   "at": "Kamu",
+   "look": "dengar"
+  },
+  {
+   "shot": "S4",
+   "at": "Ketemu"
+  },
+  {
+   "shot": "S5",
+   "at": "Temanmu"
+  },
+  {
+   "shot": "S6",
+   "at": "Kamu",
+   "look": "dengar"
+  },
+  {
+   "shot": "S7",
+   "at": "Nilai"
+  },
+  {
+   "shot": "S8",
+   "at": "Kucingmu"
+  },
+  {
+   "shot": "S9",
+   "at": "Di"
+  },
+  {
+   "shot": "S10",
+   "at": "Manusia"
+  },
+  {
+   "shot": "S11",
+   "at": "Itu"
+  },
+  {
+   "shot": "S12",
+   "at": "Jadi"
+  },
+  {
+   "shot": "S13",
+   "at": "Malam",
+   "look": "dengar"
+  },
+  {
+   "shot": "S14",
+   "at": "Empat"
+  },
+  {
+   "shot": "S15",
+   "at": "Padahal"
+  },
+  {
+   "shot": "S16",
+   "at": "Dan"
+  },
+  {
+   "shot": "S17",
+   "at": "baru"
+  }
+ ],
+ "tail": 1.2,
+ "fx": [
+  {
+   "at": "S1",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  },
+  {
+   "at": "S14",
+   "kind": "flash",
+   "color": "#FF3344"
+  },
+  {
+   "at": "S14",
+   "kind": "shake",
+   "len": 10,
+   "amp": 12
+  },
+  {
+   "at": "S17+20",
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.35
+  }
+ ],
+ "sound": {
+  "clips": {
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "whisper": [
+    "a soft eerie breathy whisper swirling past the ear, many faint overlapping whispers, no clear words, short",
+    1.2
+   ],
+   "pencil_scribble": [
+    "a pencil scribbling fast on paper on a school desk, close",
+    0.8
+   ],
+   "stamp": [
+    "a rubber stamp thumped hard onto paper on a desk, short",
+    0.5
+   ],
+   "cat_growl": [
+    "a cat giving a low tense growl, then a short hiss",
+    1.2
+   ],
+   "heartbeat": [
+    "a slow heavy human heartbeat, deep muffled thumps, tense",
+    3.0
+   ],
+   "lamp_buzz": [
+    "a bedside lamp flickering, electrical buzz and crackle cutting in and out",
+    1.5
+   ],
+   "door_creak": [
+    "a wooden bedroom door creaking open slowly in a quiet house at night",
+    1.6
+   ],
+   "suspense": [
+    "dark suspenseful thriller underscore, low pulsing synth bass, a ticking clock, tense high strings, slowly building, 90 bpm, no vocals",
+    22.0
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "title_boom",
+    0.3,
+    "peak"
+   ],
+   [
+    "S1",
+    "roof_wind",
+    0.14,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2",
+    "room_tone",
+    0.1,
+    "onset",
+    "S5"
+   ],
+   [
+    "S2+21",
+    "pop",
+    0.2
+   ],
+   [
+    "S3+2",
+    "whisper",
+    0.2,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+16",
+    "catch",
+    0.25
+   ],
+   [
+    "S4+19",
+    "sparkle",
+    0.12
+   ],
+   [
+    "S5",
+    "class_murmur",
+    0.1,
+    "onset",
+    "S8"
+   ],
+   [
+    "S5+10",
+    "pop",
+    0.2
+   ],
+   [
+    "S6+2",
+    "whisper",
+    0.2,
+    "onset",
+    "S7"
+   ],
+   [
+    "S6+11",
+    "pencil_scribble",
+    0.25
+   ],
+   [
+    "S7+8",
+    "stamp",
+    0.4
+   ],
+   [
+    "S7+11",
+    "ding",
+    0.15
+   ],
+   [
+    "S8",
+    "room_tone",
+    0.1,
+    "onset",
+    "S10"
+   ],
+   [
+    "S8+48",
+    "cat_growl",
+    0.14
+   ],
+   [
+    "S8+14",
+    "pop",
+    0.1
+   ],
+   [
+    "S9+4",
+    "heartbeat",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+6",
+    "pop",
+    0.15
+   ],
+   [
+    "S10+14",
+    "counter_tick",
+    0.14,
+    "onset",
+    "S11"
+   ],
+   [
+    "S12",
+    "room_tone",
+    0.1,
+    "onset",
+    "S17+60"
+   ],
+   [
+    "S13+22",
+    "whisper",
+    0.12,
+    "onset",
+    "S13+34"
+   ],
+   [
+    "S13+30",
+    "pop",
+    0.2
+   ],
+   [
+    "S13+34",
+    "copy_click",
+    0.25
+   ],
+   [
+    "S13+52",
+    "pop",
+    0.2
+   ],
+   [
+    "S13+56",
+    "copy_click",
+    0.25
+   ],
+   [
+    "S13+72",
+    "pop",
+    0.2
+   ],
+   [
+    "S13+76",
+    "copy_click",
+    0.25
+   ],
+   [
+    "S14+16",
+    "drone_hit",
+    0.3,
+    "onset",
+    "S15+4"
+   ],
+   [
+    "S14+20",
+    "heartbeat",
+    0.2,
+    "onset",
+    "S16"
+   ],
+   [
+    "S15+44",
+    "lamp_buzz",
+    0.16
+   ],
+   [
+    "S16+3",
+    "door_creak",
+    0.15
+   ],
+   [
+    "S16+12",
+    "whisper",
+    0.12
+   ],
+   [
+    "S17+46",
+    "bulb_pop",
+    0.3
+   ],
+   [
+    "S17+52",
+    "switch_off",
+    0.35
+   ]
+  ],
+  "music": {
+   "clip": "suspense",
+   "until": "S14"
+  },
+  "levels": {
+   "sfx_lu": -4.0,
+   "music_lu": -12.0
+  }
+ }
+}
